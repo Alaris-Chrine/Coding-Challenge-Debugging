@@ -1,3 +1,3 @@
 # Coding-Challenge-Debugging
 
-It's been a while, so I don't remember all of the issues with this code... I'll update this if I remember
+They wanted me to create a Redis simulator.  This code contains a menu with the SET and GET commands mostly implemented, but my hash table is getting errors.
